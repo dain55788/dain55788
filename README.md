@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dain55788
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to collaborate on NASA and NashTech
+- 🌱 I’m currently learning Python, with technical tools such as Excel, Power BI, SQL to become a Data Analyst
+- 💞️ I’m looking to collaborate on NashTech, KMS Tech and VNG Corporation
 - 📫 How to reach me : dain55788@gmail.com 
 
 <!---
