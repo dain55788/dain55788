@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dain55788
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python, with technical tools such as Excel, Power BI, SQL to become a Data Analyst
+- 🌱 I’m currently learning Advanced Python and SQL with technical tools such as DBMS, Apache Spark to become a Data Engineer
 - 💞️ I’m looking to collaborate on NashTech, KMS Tech and VNG Corporation
 - 📫 How to reach me : dain55788@gmail.com 
 
