@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @dain55788
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Advanced Python and SQL with technical tools such as DBMS, Apache Spark to become a Data Engineer
-- 💞️ I’m looking to collaborate on NashTech, KMS Tech and VNG Corporation
-- 📫 How to reach me : dain55788@gmail.com 
+- 🌱 I’m currently learning Advanced Python and SQL and get familiar with some technical tools such as Talend and SSIS for ETL methods.
+- <33 Furthermore, I am heading for advanced streaming data process and big data in some ecosystem such as Hadoop and Apache Spark.
+- 💞️ I’m looking to collaborate on NashTech, KMS Tech, VNG Corporation and different big data driven companies.
+- 📫 How to reach me : dainnguyen1307@gmail.com 
 
 <!---
 dain55788/dain55788 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
