@@ -2,7 +2,7 @@
 - ### 🌱 I’m currently learning Advanced Python and SQL and get familiar with some technical tools such as Talend and Apache Airflow for ETL methods, Apache Kafka for streaming process and Apache Spark for hybrid approach
 - <33 Furthermore, I am heading for advanced streaming data process and big data in some ecosystem such as Hadoop and Apache Spark.
 - 💞️ I’m looking to collaborate on NashTech, KMS Tech, VNG Corporation and different big data driven companies.
-- 📫 How to reach me : dainnguyen1307@gmail.com 
+- 📫 How to reach me : dainnguyen1307@gmail.com
 - ---
 ## Connect with me through Linkedin and Facebook
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-dai-b34118290/)
