@@ -22,6 +22,8 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Trino Badge](https://img.shields.io/badge/Trino-DD00A1?logo=trino&logoColor=fff&style=flat)
+![DBeaver Badge](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=fff&style=flat)
 
 <!---
 dain55788/dain55788 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
