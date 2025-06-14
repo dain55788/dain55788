@@ -1,8 +1,7 @@
 # **👋 Hi, I’m Nguyen Dai, you can call me Dainy for short.**
 - ### 🌱 I’m currently learning Advanced Python and SQL and get familiar with some technical tools such as Talend and Apache Airflow for ETL methods, Apache Kafka for streaming process and Apache Spark for hybrid approach.
 - #### <33 Furthermore, I am heading for advanced streaming data process and big data in some ecosystem such as Hadoop and Apache Spark.
-- 🚀 I'm currently working as a Data Engineer Intern at Viettel Group.
-- 💞️ I’m looking to collaborate on NashTech, KMS Tech, VNG Corporation, NAB and different big data driven companies.
+- 💞️ I’m looking to collaborate on NashTech, KMS Tech, VNG Corporation, NAB and different big data driven companies. 🚀 🚀
 - 📫 How to reach me : dainnguyen1307@gmail.com
 - ---
 
